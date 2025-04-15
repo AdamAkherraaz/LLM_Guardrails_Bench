@@ -1,0 +1,9 @@
+transformers>=4.36.0
+torch>=2.0.0
+guardrails-ai>=0.6.0
+nltk>=3.8
+detoxify>=0.5.1
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+scikit-learn>=1.2.0 
